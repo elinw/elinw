@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Working on topic models
+🌱 Working on topic models  
 💬 Ask me about my R packages, Lehman College.
